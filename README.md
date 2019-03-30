@@ -7,6 +7,6 @@ implementation of Dan Ristic in Learning WebRTC.
 ## Installation
 
 - Run `yarn` or `npm i` to install the dependencies
-- To run the server, run `node index.js`
-- To run the client, run `./node_modules/.bin/static-server client`
+- To run the server, run `yarn server` or `npm run server`
+- To run the client, run `yarn client` or `npm run client-npm`
 - Open the browser on `localhost:9080` and there you go!
